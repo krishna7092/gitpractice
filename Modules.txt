@@ -9,3 +9,5 @@ display calenderwithholid
 display calender()
 
 display calenderwithholid
+
+displau message
